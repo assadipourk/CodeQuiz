@@ -1,2 +1,2 @@
 # CodeQuiz
-code quiz
+This is my code quiz! 
